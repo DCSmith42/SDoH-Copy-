@@ -14,4 +14,4 @@ Data table to be uploaded.
 Pull_Main:
 Is a demo of the how CB_Data and DB_Upload work.
 
-In collaboration and under the supervision of Mr. Trip Humphrey and Dr. Omid Shabestari.
+In collaboration with and under the supervision of Mr. Trip Humphrey and Dr. Omid Shabestari.
